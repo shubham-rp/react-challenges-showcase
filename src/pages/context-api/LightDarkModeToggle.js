@@ -1,7 +1,7 @@
 import React from "react";
 
 const LightDarkModeToggle = () => {
-  return <div>LightDarkModeToggle</div>;
+  return <div>Theme Toggle</div>;
 };
 
 export default LightDarkModeToggle;
